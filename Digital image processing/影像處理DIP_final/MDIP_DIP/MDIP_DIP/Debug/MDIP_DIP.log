@@ -1,0 +1,28 @@
+﻿已經開始建置於 2015/11/24 上午 02:51:26。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\郭咨均\Desktop\影像處理DIP\MDIP_DIP\MDIP_DIP\MDIP_DIP.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\MDIP_DIP.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MDIP_DIP.cpp
+     1>cl : 命令列 warning D9035: 選項 'clr:pure' 已被取代，在未來的發行版本中將會移除
+         MDIP_DIP.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\郭咨均\Desktop\影像處理DIP\MDIP_DIP\Debug\MDIP_DIP.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\MDIP_DIP.Bitplane.resources /ASSEMBLYRESOURCE:Debug\MDIP_DIP.Brightness.resources /ASSEMBLYRESOURCE:Debug\MDIP_DIP.Contrast.resources /ASSEMBLYRESOURCE:Debug\MDIP_DIP.DIPSample.resources /ASSEMBLYRESOURCE:Debug\MDIP_DIP.help.resources /ASSEMBLYRESOURCE:Debug\MDIP_DIP.Histogram.resources /ASSEMBLYRESOURCE:Debug\MDIP_DIP.MSForm.resources /ASSEMBLYRESOURCE:Debug\MDIP_DIP.Scaling.resources /ASSEMBLYRESOURCE:Debug\MDIP_DIP.SSForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\郭咨均\Desktop\影像處理DIP\MDIP_DIP\Debug\MDIP_DIP.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Brightness.obj
+         Debug\Contrast.obj
+         Debug\help.obj
+         Debug\Histogram.obj
+         Debug\MDIP_DIP.obj
+         Debug\Bitplane.obj
+         Debug\Scaling.obj
+         Debug\SForm.obj
+         Debug\SSForm.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         MDIP_DIP.vcxproj -> C:\Users\郭咨均\Desktop\影像處理DIP\MDIP_DIP\Debug\MDIP_DIP.exe
+       GenerateSatelliteAssemblies:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6 Tools\AL.exe /culture:cs /out:"C:\Users\郭咨均\Desktop\影像處理DIP\MDIP_DIP\Debug\cs\MDIP_DIP.resources.dll" /platform:x86 /template:"C:\Users\郭咨均\Desktop\影像處理DIP\MDIP_DIP\Debug\MDIP_DIP.exe" /embed:Debug\MDIP_DIP.DIPSample.cs.resources
+     1>專案 "C:\Users\郭咨均\Desktop\影像處理DIP\MDIP_DIP\MDIP_DIP\MDIP_DIP.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.12
